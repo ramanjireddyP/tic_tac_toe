@@ -1,0 +1,22 @@
+project title :
+                tic_tac_toe game
+description:
+                the game consist of two players and computer mode
+                it basically takes user input and checks the game rules and display
+                results and all in terminal only and the computer mode works on random position
+objects :
+              two player:
+                print_board
+                input_play
+                check_hor
+                check_ver
+                check_diag
+                check_board
+              computer:
+                computer extend two player to check rules
+                computer move
+                input move
+
+
+
+
